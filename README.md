@@ -40,22 +40,22 @@ Este es un proyecto de prueba desarrollado para el puesto de Desarrollador Backe
 
 
 :arrow_forward: Pantalla de inicio de la aplicación:<p>
-<img src="https://github.com/edwsilme/raw/blob/main/img-prueba-backend/swagger.PNG" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-prueba-backend/swagger.png" width="500">
 
 :arrow_forward: Pantalla de ingreso data JSON:<p>
-<img src="https://github.com/edwsilme/raw/blob/main/img-prueba-backend/pruebaSwagger.PNG" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-prueba-backend/pruebaSwagger.png" width="500">
 
 :arrow_forward: Pantalla de Respuesta data JSON:<p>
-<img src="https://github.com/edwsilme/raw/blob/main/img-prueba-backend/resultSwagger.PNG" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-prueba-backend/resultSwagger.png" width="500">
 
 :arrow_forward: Pantalla de Respuesta Servicio SOAP:<p>
-<img src="https://github.com/edwsilme/raw/blob/main/img-prueba-backend/resultSOAP.PNG" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-prueba-backend/resultSOAP.png" width="500">
 
 :arrow_forward: Pantalla de Inicio Base de Datos (En Memoria):<p>
-<img src="https://github.com/edwsilme/raw/blob/main/img-prueba-backend/BaseDatos.PNG" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-prueba-backend/BaseDatos.png" width="500">
 
 :arrow_forward: Pantalla de Búsqueda en BD:<p>
-<img src="https://github.com/edwsilme/raw/blob/main/img-prueba-backend/resultBD.PNG" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-prueba-backend/resultBD.png" width="500">
 
 
 
