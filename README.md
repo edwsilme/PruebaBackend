@@ -36,6 +36,12 @@ Este es un proyecto de prueba desarrollado para el puesto de Desarrollador Backe
 
 ***
 
+Enlaces
+
+
+Swagger:    http://localhost:8081/api/swagger-ui/index.html
+Base Datos: http://localhost:8081/h2-console/login.jsp
+
 ### Screenshot
 
 
