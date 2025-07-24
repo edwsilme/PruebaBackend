@@ -31,7 +31,7 @@ Este es un proyecto de prueba desarrollado para el puesto de Desarrollador Backe
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/edwsilme/Sistema_Pos.git
+   git clone https://github.com/edwsilme/PruebaBackend.git
 
 
 ***
